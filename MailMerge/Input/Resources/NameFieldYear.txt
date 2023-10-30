@@ -1,0 +1,10 @@
+Abhijit Banerjee,Economics,2019
+Kailash Satyarthi,Peace,2014
+Venkatraman Ramakrishnan,Chemistry,2009
+V S Naipaul,Literature,2001
+Amartya Sen,Economics,1998
+Subramanyan Chandrasekhar,Physics,1983
+Mother Teresa,Peace,1979
+Har Gobind Khorana,Medicine,1968
+C V Raman,Physics,1930
+Rabindranath Tagore,Literature,1913
