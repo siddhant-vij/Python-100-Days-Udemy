@@ -1,0 +1,39 @@
+state,x,y,type
+Ladakh,-142.0,376.0,UT
+Jammu and Kashmir,-210.0,344.0,UT
+Himachal Pradesh,-146.0,287.0,State
+Punjab,-195.0,262.0,State
+Uttarakhand,-95.0,235.0,State
+Haryana,-172.0,206.0,State
+New Delhi,-149.0,189.0,UT
+Uttar Pradesh,-59.0,135.0,State
+Rajasthan,-242.0,141.0,State
+Madhya Pradesh,-128.0,29.0,State
+Gujarat,-307.0,21.0,State
+Diu,-327.0,-42.0,UT
+Daman,-269.0,-53.0,UT
+Dadra & Nagar Haveli,-262.0,-58.0,UT
+Chhattisgarh,-17.0,-18.0,State
+Bihar,82.0,101.0,State
+Jharkhand,70.0,33.0,State
+Odisha,49.0,-50.0,State
+West Bengal,138.0,28.0,State
+Sikkim,156.0,159.0,State
+Assam,275.0,131.0,State
+Arunachal Pradesh,322.0,190.0,State
+Meghalaya,228.0,99.0,State
+Nagaland,323.0,123.0,State
+Manipur,307.0,78.0,State
+Mizoram,278.0,35.0,State
+Tripura,246.0,47.0,State
+Maharashtra,-208.0,-88.0,State
+Goa,-242.0,-202.0,State
+Karnataka,-190.0,-226.0,State
+Telangana,-103.0,-133.0,State
+Andhra Pradesh,-104.0,-217.0,State
+Kerala,-175.0,-347.0,State
+Tamil Nadu,-122.0,-341.0,State
+Lakshadweep,-279.0,-355.0,UT
+Andaman and Nicobar Islands,296.0,-276.0,UT
+Puducherry,-80.0,-305.0,UT
+Chandigarh,-157.0,253.0,UT
