@@ -141,6 +141,6 @@ def cToFDisplay():
     calculateButton.grid(column=1, row=2)
 
 
-if __name__ == "__main__":
-    menuBarDisplay()
-    window.mainloop()
+
+menuBarDisplay()
+window.mainloop()
